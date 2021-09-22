@@ -51,14 +51,14 @@
 - [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
-- [Microduino](https://www.microduino.cc/) - Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.
+- Microduino - Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.
 - [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLinuXino is an Open Source Software and Open Source Hardware low cost (EUR 30) Linux Industrial grade single board computer with GPIOs capable of operating from -25°C to +85°C.
 - [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.
 - [Particle](https://www.particle.io) - A suite of hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
 - [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all yout IoT devices, and it is Arduino compatible.
 - [Raspberry Pi](https://www.raspberrypi.org/) - The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
-- [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
+- Tessel - Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 - [UDOO](http://www.udoo.org) - UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
 
 ### Software
@@ -84,7 +84,6 @@
 
 > This sections regroups every awesome programming language, whether it is compiled, interpreted or a DSL, related to embedded development.
 
- - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B) - A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
  - [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
  - [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
@@ -96,7 +95,7 @@
 
 #### Frameworks
 
- - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
+ - AllJoyn - Is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
  - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
  - [Astarte](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
  - [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
@@ -132,7 +131,7 @@
  - [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
  - [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
  - [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
- - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+ - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more.
  - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
  - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
  - [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
@@ -250,9 +249,9 @@ The Datagram Transport Layer Security (DTLS) communications protocol provides co
 
 > DTLS allows datagram-based applications to communicate in a way that is designed[by whom?] to prevent eavesdropping, tampering, or message forgery. The DTLS protocol is based on the stream-oriented Transport Layer Security (TLS) protocol and is intended to provide similar security guarantees.
 
-#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](https://en.wikipedia.org/wiki/Eddystone_(Google)) (Google)
+#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> 
 
-Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
+Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - Wikipedia
 
 > Though similar to the iBeacon released by Apple in 2013, Eddystone works on both Android and iOS, whereas iBeacon is limited to iOS platforms. A practical application of both softwares is that business owners can target potential customers based on the location of their smartphones in real time.
 
@@ -268,10 +267,6 @@ iBeacon is a protocol standardized by Apple and introduced at the Apple Worldwid
 
 > iBeacon uses Bluetooth low energy proximity sensing to transmit a universally unique identifier picked up by a compatible app or operating system. The identifier can be used to determine the device's physical location, track customers, or trigger a location-based action on the device such as a check-in on social media or a push notification.
 
-#### <img width="50" src="https://raw.githubusercontent.com/mqtt/mqttorg-graphics/master/mqtticon-large.png" /> - [MQTT](http://mqtt.org/) (IBM)
-
-MQTT (formerly MQ Telemetry Transport) is a publish-subscribe based "light weight" messaging protocol for use on top of the TCP/IP protocol. It is designed for connections with remote locations where a "small code footprint" is required or the network bandwidth is limited. - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
-
 > The publish-subscribe messaging pattern requires a message broker. The broker is responsible for distributing messages to interested clients based on the topic of a message. Andy Stanford-Clark and Arlen Nipper of Cirrus Link Solutions authored the first version of the protocol in 1999.
 
 #### <img width="50" src="https://www.pjon.org/assets/images/PJON-logo-devices.jpg" /> - [PJON](https://github.com/gioblu/PJON/)
@@ -286,7 +281,6 @@ Simple (or Streaming) Text Oriented Message Protocol (STOMP), formerly known as 
 
 > STOMP provides an interoperable wire format that allows STOMP clients to talk with any message broker supporting the protocol. It is thus language-agnostic, meaning a broker developed for one programming language or platform can receive communications from client software developed in another language.
 
-#### <img width="50" src="https://www.rabbitmq.com/wp-uploads/2012/02/HTML5_Logo_256.png" /> - [Websocket](https://en.wikipedia.org/wiki/WebSocket)
 
 WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. - [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
 
@@ -322,7 +316,6 @@ OPC-UA is a not only a protocol for industrial automation but also a technology 
 
 ### Alliances
 
-- [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 - [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 - [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
 - [LoRa Alliance](https://www.lora-alliance.org/) - The LoRa Alliance is an open, non-profit association of members that believes the internet of things era is now. It was initiated by industry leaders with a mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications.
@@ -374,7 +367,7 @@ and Vlad Trifa
 
 - [A Simple Explanation Of 'The Internet Of Things' (Forbes)](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/) - This article attemps to give an answer to what exactly is the “Internet of things” and what impact it is going to have on us.
 - [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - The Internet of Things World conference investigates IoT application development, security, and business models.
-- [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
+
 
 
 ### Papers
@@ -384,4 +377,4 @@ and Vlad Trifa
 - [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - Master of Science Thesis in the Programme Computer Systems and Networks.
 - [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 - [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
-- [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
+
