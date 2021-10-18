@@ -128,6 +128,15 @@ Repository | Description
  [Nebula](http://nebula.readthedocs.io) |  A docker orchestrator designed to manage IoT devices.
  [Gladys](https://gladysassistant.com) | Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
 
+# Protocols
+Repository | Description
+---- | ----
+[Microsoft Azure](https://azure.microsoft.com/en-in/overview/internet-of-things-iot/iot-technology-protocols/) | Microsoft Azures guide to a strong foundation in IoT protocols and technology.
+[nabto](https://www.nabto.com/guide-iot-protocols-standards/) | Nabto is a p2p based technology which provides connections to IoT devices.
+[AVSystem](https://www.avsystem.com/blog/iot-protocols-and-standards/) | AVSystem automates processes and helps other companies to develop ecosystems of connected devices.
+[Postscapes](https://www.postscapes.com/internet-of-things-protocols/) | Postscapes frames and filters Internet of Things (IoT) products, services & ecosystems.
+and facilitates decision-making for businesses and end users in a complex and fragmented marketplace.
+[Kellton Tech](https://www.kelltontech.com/kellton-tech-blog/internet-of-things-protocols-standards) | Kellton Tech collaborates with companies worldwide to craft unique IT solutions, provides technical consultation and integrates business-changing systems.
 
 ## Standards and Alliances
 
