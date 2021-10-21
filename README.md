@@ -28,6 +28,8 @@ Microduino | Microduino and mCookie bring powerful, small, stackable electronic 
 [Raspberry Pi](https://www.raspberrypi.org/) | The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 Tessel | Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 [UDOO](http://www.udoo.org) | UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
+[Adafruit](https://www.adafruit.com/) | Adafruit offers one of the best online spaces to learn about DIY electronic hacking. Adafruit Feather is a line of open-source development boards that are designed for prototyping on the fly.
+
 
 # Software
 
