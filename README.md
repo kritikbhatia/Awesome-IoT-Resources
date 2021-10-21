@@ -29,7 +29,7 @@ Microduino | Microduino and mCookie bring powerful, small, stackable electronic 
 Tessel | Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 [UDOO](http://www.udoo.org) | UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
 [Adafruit](https://www.adafruit.com/) | Adafruit offers one of the best online spaces to learn about DIY electronic hacking. Adafruit Feather is a line of open-source development boards that are designed for prototyping on the fly.
-
+[Arduinolilypad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/)  | The LilyPad Arduino Main Board is based on the ATmega168V (the low-power version of the ATmega168) or the ATmega328V. The LilyPad Arduino was designed and developed by Leah Buechley and SparkFun Electronics.
 
 # Software
 
