@@ -29,6 +29,7 @@ Microduino | Microduino and mCookie bring powerful, small, stackable electronic 
 Tessel | Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 [UDOO](http://www.udoo.org) | UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
 [Arduinolilypad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/)  | The LilyPad Arduino Main Board is based on the ATmega168V (the low-power version of the ATmega168) or the ATmega328V. The LilyPad Arduino was designed and developed by Leah Buechley and SparkFun Electronics.
+[ESP8266](https://www.esp8266.com) |The ESP8266 integrates a 160 MHz microcontroller with a full Wi-Fi front-end (both as client and access point) and TCP/IP stack with DNS. ESP8266’s flexibility and price point have driven its explosion of use
 # Software
 
 # Operating systems
