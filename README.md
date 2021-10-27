@@ -50,6 +50,7 @@ Repository | Description
  [UBOS](https://ubos.net/) | UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
  [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) | Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
  [Zephyr Project](https://www.zephyrproject.org/) | The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
+ [VxWorks](https://www.windriver.com/products/vxworks) | VxWorks is the first and only real-time operating system (RTOS) in the world to support application deployment with intelligent edge software better and faster, through containers.
 
 # Programming languages
 Repository | Description
