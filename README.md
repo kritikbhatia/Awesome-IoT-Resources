@@ -28,8 +28,11 @@ Microduino | Microduino and mCookie bring powerful, small, stackable electronic 
 [Raspberry Pi](https://www.raspberrypi.org/) | The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 Tessel | Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
 [UDOO](http://www.udoo.org) | UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
+[Adafruit](https://www.adafruit.com/) | Adafruit offers one of the best online spaces to learn about DIY electronic hacking. Adafruit Feather is a line of open-source development boards that are designed for prototyping on the fly.
 [Arduinolilypad](https://www.arduino.cc/en/Main/ArduinoBoardLilyPad/)  | The LilyPad Arduino Main Board is based on the ATmega168V (the low-power version of the ATmega168) or the ATmega328V. The LilyPad Arduino was designed and developed by Leah Buechley and SparkFun Electronics.
 [ESP8266](https://www.esp8266.com) |The ESP8266 integrates a 160 MHz microcontroller with a full Wi-Fi front-end (both as client and access point) and TCP/IP stack with DNS. ESP8266’s flexibility and price point have driven its explosion of use
+
+
 # Software
 
 # Operating systems
@@ -49,6 +52,7 @@ Repository | Description
  [UBOS](https://ubos.net/) | UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
  [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) | Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
  [Zephyr Project](https://www.zephyrproject.org/) | The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
+ [VxWorks](https://www.windriver.com/products/vxworks) | VxWorks is the first and only real-time operating system (RTOS) in the world to support application deployment with intelligent edge software better and faster, through containers.
 
 # Programming languages
 Repository | Description
